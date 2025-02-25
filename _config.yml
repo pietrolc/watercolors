@@ -1,3 +1,5 @@
+remote_theme: hydecorp/hydejack@v9.2.1
+
 title: Your Site Title
 description: A short description of your site (~150 chars)
 
@@ -60,8 +62,6 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-remote-theme
   - jekyll-sitemap
-
-remote_theme: hydecorp/hydejack@v9.2.1
 
 # Exclude files
 exclude:
