@@ -55,6 +55,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-titles-from-headings
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 # Theme
 theme: jekyll-theme-hydejack
