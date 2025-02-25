@@ -101,4 +101,6 @@ plugins:
 exclude:
   - README.md
   - LICENSE
+  
+advertise:           false
 
