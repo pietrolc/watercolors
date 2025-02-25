@@ -3,9 +3,12 @@ remote_theme: hydecorp/hydejack@v9.2.1
 url: https://pietrolc.github.io/
 baseurl: /watercolors
 
-accent_image: /assets/img/pexels-zaksheuskaya-709412-1568607.jpg"
+accent_image: /assets/img/pexels-zaksheuskaya-709412-1568607.jpg
 accent_color: rgb(79,177,186)
 
 theme_color:  rgb(25,55,71)
 
 google_fonts: true
+
+paginate:      10
+paginate_path: '/:num/'
