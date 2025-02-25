@@ -4,6 +4,8 @@ description: A short description of your site (~150 chars)
 url: https://pietrolc.github.io/
 baseurl: /watercolors
 
+lang: en # Language of your content
+
 # Author Information
 author:
   name: Your Name
@@ -25,6 +27,8 @@ accent_image: /assets/img/pexels-zaksheuskaya-709412-1568607.jpg
 accent_color: rgb(79,177,186)
 
 theme_color:  rgb(25,55,71)
+
+timezone: Europe/Rome
 
 paginate:      10
 paginate_path: '/:num/'
