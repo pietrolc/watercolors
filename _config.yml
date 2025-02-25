@@ -1,6 +1,6 @@
 remote_theme: hydecorp/hydejack@v9.2.1
 
-title: Your Site Title
+title: Exploring watercolors with Pietro
 description: A short description of your site (~150 chars)
 
 url: https://pietrolc.github.io/
@@ -9,7 +9,7 @@ baseurl: /watercolors
 lang: en # Language of your content
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline: My artistic portfolio
 
 # A list of keywords for your blog
 keywords:              []
