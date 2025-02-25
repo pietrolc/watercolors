@@ -8,6 +8,12 @@ baseurl: /watercolors
 
 lang: en # Language of your content
 
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: false
+
 # Author Information
 author:
   name: Your Name
