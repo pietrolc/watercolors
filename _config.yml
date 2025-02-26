@@ -17,7 +17,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://pietrolc.github.io/watercolors/assets/img/pietro_256.jpg
+logo:                  https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
 
 defaults:
   - scope:
@@ -38,7 +38,7 @@ author:
     
     # This photo will be used in the about section
   picture:
-    path:            https://pietrolc.github.io/watercolors/assets/img/pietro_256.jpg
+    path:            https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
