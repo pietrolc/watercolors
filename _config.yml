@@ -75,11 +75,76 @@ hydejack:
     icon:    true
     always:  false
     
+  # Configure the order of complementary content on blog posts
+  post_addons:         [about, newsletter, related, random]
+
+  # If you do not use Google Fonts, set to `true`.
+  no_google_fonts:     true
+
+  # Set to `true` if you don't want to show an icon indicating external links
+  no_mark_external:    false
+
+  # Set to `true` if third party plugins fail to work with dynamically loaded pages
+  no_push_state:       false
+
+  # Set to `true` if you want to disable the drawer
+  no_drawer:           false
+
+  # Set to `true` if you do not want parts of the css inlined in <head/>
+  # This *may* be benefitial when serving the site over HTTP/2.
+  no_inline_css:       false
+
+  # Code blocks and tables "break" the layout by spanning the full available width.
+  # Set this to true if you want them to be the same width as other content.
+  no_break_layout:     false
+
+  # Set to `true` if you do not want to expose your resume and projects
+  # in machine-readable formats.
+  no_structured_data:  false
+
+  # You can set this to `true` if you don't want to set the `theme-color` meta tag,
+  # This only affects the meta tag, not the color specified in the app manifest.
+  no_theme_color:      false
+
+  # Set to `true` when building with the `--lsi` option
+  use_lsi:             false
+  
+  advertise:           false
+
+    
+# Collections
+# ========================================================================================
+
+collections:
+  featured_categories:
+    permalink:         /category/:name/
+    output:            true
+
+  featured_tags:
+    permalink:         /tag/:name/
+    output:            true
+    
 # Analytics
 analytics:
   provider: goatcounter
   goatcounter:
     code: pwc # Replace with your GoatCounter code
+    
+
+# File inclusion/exclusion
+# ========================================================================================
+
+exclude:
+  - README.md
+  - node_modules
+  - vendor
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - google23916bd3317bc445.html
+include:
+  - LICENSE.md
     
 # Plugins
 plugins:
@@ -97,10 +162,30 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-# Exclude files
-exclude:
-  - README.md
-  - LICENSE
-  
-advertise:           false
+
+# Other Plugins
+# ---------------------------------------------------------------------------------------
+
+optional_front_matter:
+  remove_originals:    true
+
+readme_index:
+  remove_originals:    true
+
+relative_links:
+  collections:         true
+
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+
+compress_html:
+  comments:            ["<!-- ", " -->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+
+sass:
+  style:               compressed
 
