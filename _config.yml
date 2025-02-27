@@ -33,8 +33,9 @@ author:
     This is a brief bio about you.
     You can add multiple paragraphs here.
   
-  youtube: https://www.youtube.com/@PietroLCWatercolours
-  instagram: https://www.instagram.com/pietrowatercolor
+  socials:
+    - youtube: https://www.youtube.com/@PietroLCWatercolours
+    - instagram: https://www.instagram.com/pietrowatercolor
     
     # This photo will be used in the about section
   picture:
