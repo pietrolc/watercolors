@@ -248,3 +248,6 @@ compress_html:
 sass:
   style:               compressed
 
+feed:
+  title: "Pietro's Watercolor Blog"
+  description: "A blog about watercolor techniques and artworks."
