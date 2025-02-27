@@ -34,8 +34,9 @@ author:
     You can add multiple paragraphs here.
   
   socials:
-    - youtube: https://www.youtube.com/@PietroLCWatercolours
-    - instagram: https://www.instagram.com/pietrowatercolor
+    links: 
+    - https://www.youtube.com/@PietroLCWatercolours
+    - https://www.instagram.com/pietrowatercolor
     
     # This photo will be used in the about section
   picture:
