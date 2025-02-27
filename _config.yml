@@ -219,6 +219,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-art-gallery-generator
 
 
 # Other Plugins
