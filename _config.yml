@@ -26,8 +26,7 @@ defaults:
       comments: false
 
 # Author Information
-author:
-  name: Pietro L. Carotenuto
+author: pietrolc
 #  email: info@pietrolc.com
 #  about: |
 #    This is a brief bio about you.
