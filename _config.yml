@@ -28,25 +28,25 @@ defaults:
 # Author Information
 author:
   name: Pietro L. Carotenuto
-  email: info@pietrolc.com
-  about: |
-    This is a brief bio about you.
-    You can add multiple paragraphs here.
-  
-  social:
-    youtube:        https://www.youtube.com/@PietroLCWatercolours
-    instagram:      https://instagram.com/pietrowatercolor_
-    facebook:       https://facebook.com/pietrowatercolor_
-    #website:    https://www.pietrolc.com
-    rss:            https://pietrolc.github.io/watercolors/feed.xml
-    
-    # This photo will be used in the about section
-  picture:
-    path:            https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
-      2x:            https://pietrolc.github.io/watercolors/assets/img/pietro_256.jpg
+#  email: info@pietrolc.com
+#  about: |
+#    This is a brief bio about you.
+#    You can add multiple paragraphs here.
+#  
+#  social:
+#    youtube:        https://www.youtube.com/@PietroLCWatercolours
+#    instagram:      https://instagram.com/pietrowatercolor_
+#    facebook:       https://facebook.com/pietrowatercolor_
+#    #website:    https://www.pietrolc.com
+#    rss:            https://pietrolc.github.io/watercolors/feed.xml
+#    
+#    # This photo will be used in the about section
+#  picture:
+#    path:            https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
+#    # srcset is optional, but can be used to provide higher res versions for retina displays
+#    srcset:
+#      1x:            https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
+#      2x:            https://pietrolc.github.io/watercolors/assets/img/pietro_256.jpg
       
 # Menu Configuration
 menu:
