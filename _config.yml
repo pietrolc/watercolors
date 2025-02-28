@@ -27,21 +27,16 @@ defaults:
 
 # Author Information
 author:
-  name: Your Name
-  email: your@email.com
+  name: Pietro L. Carotenuto
+  email: info@pietrolc.com
   about: |
     This is a brief bio about you.
     You can add multiple paragraphs here.
   
   social:
-    youtube:
-      - icon: youtube
-      - name: Youtube
-      - url:  https://www.youtube.com/@PietroLCWatercolours
-    instagram:
-      - icon: instagram
-      - name: Instagram
-      - url:  https://www.instagram.com/pietrowatercolor
+    youtube: @PietroLCWatercolours
+    instagram: pietrowatercolor
+    facebook: pietrowatercolor
     website:    https://www.pietrolc.com
     rss:        https://pietrolc.github.io/watercolors/feed.xml
     
