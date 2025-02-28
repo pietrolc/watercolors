@@ -35,11 +35,11 @@ author:
   
   social:
     youtube:
-        name: Youtube
-        url:  https://www.youtube.com/@PietroLCWatercolours
+      - name: Youtube
+      - url:  https://www.youtube.com/@PietroLCWatercolours
     instagram:
-        name: Instagram
-        url:  https://www.instagram.com/pietrowatercolor
+      - name: Instagram
+      - url:  https://www.instagram.com/pietrowatercolor
     website:    https://www.pietrolc.com
     rss:        https://pietrolc.github.io/watercolors/feed.xml
     
