@@ -34,11 +34,11 @@ author:
     You can add multiple paragraphs here.
   
   social:
-    youtube: PietroLCWatercolours
-    instagram: pietrowatercolor
-    facebook: pietrowatercolor
+    youtube:        https://www.youtube.com/@PietroLCWatercolours
+    instagram:      _pietrowatercolor_
+    facebook:       _pietrowatercolor_
     #website:    https://www.pietrolc.com
-    rss:        https://pietrolc.github.io/watercolors/feed.xml
+    rss:            https://pietrolc.github.io/watercolors/feed.xml
     
     # This photo will be used in the about section
   picture:
