@@ -19,13 +19,6 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  https://pietrolc.github.io/watercolors/assets/img/pietro_128.jpg
 
-author:
-  social:
-    youtube:    https://www.youtube.com/@PietroLCWatercolours
-    instagram:  https://www.instagram.com/pietrowatercolor
-    website:    https://www.pietrolc.com
-    rss:        /feed.xml
-
 defaults:
   - scope:
       type: posts
@@ -41,10 +34,14 @@ author:
     You can add multiple paragraphs here.
   
   social:
-    youtube:    https://www.youtube.com/@PietroLCWatercolours
-    instagram:  https://www.instagram.com/pietrowatercolor
+    youtube:
+        name: Youtube
+        url:  https://www.youtube.com/@PietroLCWatercolours
+    instagram:
+        name: Instagram
+        url:  https://www.instagram.com/pietrowatercolor
     website:    https://www.pietrolc.com
-    rss:        /feed.xml
+    rss:        https://pietrolc.github.io/watercolors/feed.xml
     
     # This photo will be used in the about section
   picture:
