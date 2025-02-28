@@ -213,6 +213,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-art-gallery-generator
+  - jekyll-author
 
 
 # Other Plugins
