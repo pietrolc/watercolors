@@ -39,7 +39,7 @@ PietroLC:
     github:            pietrolc
     #twitter:         
     #linkedin:        manvendrask
-    # facebook:        _username_
+    facebook:         pietrowatercolor
     # google:          _number_
     # vk:              _username_
     youtube:           https://www.youtube.com/@PietroLCWatercolours
@@ -48,7 +48,7 @@ PietroLC:
     # spotify:         user/_number_
     # soundcloud:      _username_
     # lastfm:          _username_
-    nstagram:          pietrowatercolor
+    instagram:          pietrowatercolor
     # flickr:          _string_@_string_
     # 500px:           _username_
     # dribbble:        _username_
@@ -73,7 +73,7 @@ PietroLC:
     # stumbleupon:     _username_
     # paypal:          _username_
     # email:           mailto:f.klampfer@gmail.com
-    rss:               //pietrolc.github.io/watercolors/feed.xml
+    rss:               https://pietrolc.github.io/watercolors/feed.xml
 
 # Another author
 # mdo:
